@@ -3,6 +3,9 @@ title: علی ثابت
 description: مهندس نرم‌افزار در اکوسیستم dotnet، علاقه‌مند به AI
 author: علی ثابت
 
+assets:
+  disableFingerprinting: true
+
 homeInfoParams:
   Title: علی ثابت
   Content: مهندس نرم‌افزار در اکوسیستم dotnet، علاقه‌مند به AI

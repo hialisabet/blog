@@ -3,8 +3,14 @@ title: Ali Sabet
 description: .NET developer with a heart for AI
 author: Ali Sabet
 
-rssFullContent: true
+assets:
+  disableFingerprinting: true
 
+homeInfoParams:
+  Title: Ali Sabet
+  Content: .NET developer with a heart for AI
+
+rssFullContent: true
 ShowReadingTime: true
 ShowShareButtons: true
 ShareButtons: ["linkedin", "twitter", "whatsapp", "telegram"]
@@ -24,10 +30,6 @@ buildExpired: false
 minify:
   disableXML: true
   minifyOutput: true
-
-homeInfoParams:
-  Title: Ali Sabet
-  Content: .NET developer with a heart for AI
 
 editPost:
   URL: "https://github.com/hialisabet/blog/tree/main/content"
